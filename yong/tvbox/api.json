@@ -64,7 +64,7 @@
         "线路标题": ">&&</span>",
         "分类url": "https://kimivod.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$2#电视剧$1#动漫$3#综艺$4#短剧$39"
-      }
+      },
     {"key": "360zy","name": "360采集","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
         { "key": "追剧很卷", "name": "☀️追剧很卷", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "影片年代": "<div class=\"module-info-tag\">&&</div>", "影片地区": "圥忈制作", "影片状态": "备注：&&</div>", "影片类型": "module-info-tag\">&&立即播放", "线路数组": "data-dropdown-value=&&</div>", "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集", "分类url": "https://www.freeokk.pro/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html", "分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$5" } },
         {
@@ -2472,6 +2472,7 @@
     ]
 
 }
+
 
 
 
